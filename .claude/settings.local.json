@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__83748e1c-584b-4fc6-9139-26da1ed09b92__use_figma",
+      "WebFetch(domain:www.islanddentalassociates.com)"
+    ]
+  }
+}
